@@ -1,5 +1,5 @@
 # profile-demo-app
-Demo project for understanding Spring Boot profile
+Project for understanding Spring Boot profile
 
 ## To run specific profile in Spring Tool Suite follow below steps
 1. *Open Run Configuration*<br>    
